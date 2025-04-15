@@ -2,7 +2,7 @@
 //This is optional. if you do not want to, skip this and move on.
 
 
-/////////////////////////////
+////////////////////////////
 /*This looks like a good place to declare any state or global variables you might need*/
 
 ////////////////////////////
@@ -10,7 +10,7 @@
 
 
 /**
- * Fetches all players from the API.
+ * Fetches all players from the API
  * This function should not be doing any rendering
  * @returns {Object[]} the array of player objects
  */
