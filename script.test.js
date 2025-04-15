@@ -5,7 +5,7 @@ const {
 } = require("./script");
 
 describe("fetchAllPlayers", () => {
-  // Make the API call once before all the tests run.
+  // Make the API call once before all the tests run
   let players;
   beforeAll(async () => {
     players = await fetchAllPlayers();

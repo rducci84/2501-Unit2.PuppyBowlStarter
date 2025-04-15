@@ -1,4 +1,4 @@
-# PuppyBowl.
+# PuppyBowl
 
 Welcome to PuppyBowl!
 
